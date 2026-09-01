@@ -6,8 +6,8 @@ A Python-powered data pipeline and relational database project managing retail o
 
 ## 🐍 Python Data Processing & Cleaning Script
 
-The complete data cleaning, feature engineering, and validation pipeline was built and executed in Python. You can view and run the full code script directly from this repository:
-👉 **[View Python Processing Script](script.py)** *(Replace `script.py` with your actual file path/name in the repo, e.g., `data_cleaning.py` or `notebooks/data_preprocessing.ipynb`)*
+The complete data cleaning, feature engineering, and validation pipeline was built and executed in Python. You can view the full Jupyter Notebook directly from this repository:
+👉 **[View Python Processing Notebook](ecommerce_warehouse_1.ipynb)**
 
 ### Detailed Cleaning Steps:
 1. **Inspect Data Structure:** Checked data structure, non-null counts, and initial data types using `df.info()`.
