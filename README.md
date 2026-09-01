@@ -118,13 +118,13 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ## 📊 Power BI Dashboard Previews & Multi-Page Reports
 
 ### 1. Executive Overview & Product Performance
-![Executive Overview Dashboard](Screenshot%202026-09-01%20151518_2.png)
+![Executive Overview Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151518_2.png)
 
 ### 2. Customer Segmentation & Regional Insights
-![Customer Segmentation Dashboard](Screenshot%202026-09-01%20151528_2.png)
+![Customer Segmentation Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151528_2.png)
 
 ### 3. Store Operations & Staff Performance
-![Store Operations Dashboard](Screenshot%202026-09-01%20151537_2.png)
+![Store Operations Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151537_2.png)
 
 ### 4. Discount Impact & Returns Audit
-![Discount Impact Dashboard](Screenshot%202026-09-01%20151552_2.png)
+![Discount Impact Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151552_2.png)
