@@ -41,12 +41,14 @@ The complete data cleaning, feature engineering, and validation pipeline was bui
 | **`shipment`** | Delivery and carrier tracking status | Links to `orders` |
 | **`return`** | Returned items and refund logs | Links to `order_items` |
 
+
 [Customers] ──< [Orders] ──> [Order_Items] <── [Product]
                     │              │              │
                [Payments]     [Return]       [Categories]
                     │
                [Shipment]
                
+
 # E-Commerce Warehouse & Retail Performance Analytics
 
 An end-to-end relational database analysis project evaluating e-commerce operational data, supply chain logistics, and retail performance metrics using advanced SQL queries.
