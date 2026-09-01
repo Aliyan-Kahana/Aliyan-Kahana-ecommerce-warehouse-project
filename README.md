@@ -64,16 +64,3 @@ Advanced Aggregations & Grouping: Leveraged core metrics using SUM(), COUNT(), a
                [Payments]     [Return]       [Categories]
                     │
                [Shipment]
-📊 SQL Data Analysis & Business Queries
-SQL Script: ecommerce-warehouse-data.sql[cite: 1]
-
-Query Capabilities & Business Logic
-Multi-Table Joins: Executed complex multi-level JOIN operations across order_items, products, categories, orders, stores, payments, shipments, and employees tables to synthesize fragmented relational data structures[cite: 1].
-
-Advanced Window Functions: Applied sophisticated window functions including LAG() to track historical month-over-month order growth, DENSE_RANK() to rank product sales volumes, and SUM() OVER() to calculate percentage revenue contributions.
-
-Common Table Expressions (CTEs): Utilized WITH clauses to structure modular, multi-step analytical pipelines, isolating intermediate metrics like category totals and monthly trends before final execution.
-
-Conditional Logic & Case Statements: Implemented dynamic CASE statements to segment market performance tiers (e.g., High, Mid, and Growth Value Markets), flag supply chain delivery operational risks, and classify store compensation brackets.
-
-Advanced Aggregations & Grouping: Leveraged core metrics using SUM(), COUNT(), and ROUND(AVG()) paired with GROUP BY, ORDER BY, and LIMIT clauses to uncover top revenue drivers and workforce benchmarks[cite: 1].
