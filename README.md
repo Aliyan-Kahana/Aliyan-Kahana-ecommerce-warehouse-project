@@ -46,26 +46,27 @@ The complete data cleaning, feature engineering, and validation pipeline was bui
                [Payments]     [Return]       [Categories]
                     │
                [Shipment]
+               
 # E-Commerce Warehouse & Retail Performance Analytics
 
-An end-to-end relational database analysis project evaluating e-commerce operational data, supply chain logistics, and retail performance metrics using advanced SQL queries[cite: 1].
+An end-to-end relational database analysis project evaluating e-commerce operational data, supply chain logistics, and retail performance metrics using advanced SQL queries.
 
 ---
 
 ## 📊 SQL Data Analysis & Business Queries
 
-- **SQL Script:** [`ecommerce-warehouse-data.sql`](ecommerce-warehouse-data.sql)[cite: 1]
+- **SQL Script:** [`ecommerce-warehouse-data.sql`](ecommerce-warehouse-data.sql)
 
 ## Query Capabilities & Business Logic
 
-* **Multi-Table Joins:** Executed complex multi-level `JOIN` operations across `order_items`, `products`, `categories`, `orders`, `stores`, `payments`, `shipments`, and `employees` tables[cite: 1].
+* **Multi-Table Joins:** Executed complex multi-level `JOIN` operations across `order_items`, `products`, `categories`, `orders`, `stores`, `payments`, `shipments`, and `employees` tables.
 * **Advanced Window Functions:** Applied `LAG()`, `DENSE_RANK()`, and `SUM() OVER()` to track historical growth, rank sales volumes, and calculate revenue percentages.
 * **Common Table Expressions (CTEs):** Utilized `WITH` clauses to structure modular, multi-step analytical pipelines before final transformations.
 * **Conditional Logic & Case Statements:** Implemented dynamic `CASE` statements to segment market performance tiers, flag delivery risks, and classify compensation brackets.
-* **Advanced Aggregations & Grouping:** Leveraged core statistical metrics using `SUM()`, `COUNT()`, and `ROUND(AVG())` with `GROUP BY`, `ORDER BY`, and `LIMIT` clauses[cite: 1].
+* **Advanced Aggregations & Grouping:** Leveraged core statistical metrics using `SUM()`, `COUNT()`, and `ROUND(AVG())` with `GROUP BY`, `ORDER BY`, and `LIMIT` clauses.
 
 ---
 
 ## Technologies Used
-* **SQL** (MySQL / SQLite)[cite: 1]
-* **Relational Database Management Systems (RDBMS)**[cite: 1]
+* **SQL** (MySQL / SQLite)
+* **Relational Database Management Systems (RDBMS)**
