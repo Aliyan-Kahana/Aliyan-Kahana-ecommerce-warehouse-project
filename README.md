@@ -106,13 +106,13 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ## Dashboard Screenshots
 
 ### 1. Executive Overview & Product Performance
-![Executive Overview](power_bi_images/Screenshot%202026-09-01%20151518_2.png)
+![Executive Overview](power-bi-images/powerbi-overview.png)
 
 ### 2. Customer Segmentation & Regional Insights
-![Customer Segmentation](power_bi_images/Screenshot%202026-09-01%20151528_2.png)
+![Customer Segmentation](power-bi-images/powerbi-customers.png)
 
 ### 3. Store Operations & Staff Performance
-![Store Operations](power_bi_images/Screenshot%202026-09-01%20151537_2.png)
+![Store Operations](power-bi-images/powerbi-operations.png)
 
 ### 4. Discount Impact & Returns Audit
-![Discount Impact](power_bi_images/Screenshot%202026-09-01%20151552_2.png)
+![Discount Impact](power-bi-images/powerbi-discount.png)
