@@ -4,10 +4,12 @@ A complete end-to-end data analytics and engineering project analyzing a 12-tabl
 
 A Python-powered data pipeline and relational database project managing retail operations across 12 core tables.
 
-## 🧹 Data Cleaning & Processing Steps
+## 🐍 Python Data Processing & Cleaning Script
 
-The raw data was ingested, processed, and prepared using Python (Pandas and NumPy) through the following pipeline:
+The complete data cleaning, feature engineering, and validation pipeline was built and executed in Python. You can view and run the full code script directly from this repository:
+👉 **[View Python Processing Script](script.py)** *(Replace `script.py` with your actual file path/name in the repo, e.g., `data_cleaning.py` or `notebooks/data_preprocessing.ipynb`)*
 
+### Detailed Cleaning Steps:
 1. **Inspect Data Structure:** Checked data structure, non-null counts, and initial data types using `df.info()`.
 2. **Fix Column Names:** Standardized header naming conventions for consistency.
 3. **Remove Duplicate Rows:** Filtered out redundant records to prevent data skew.
