@@ -96,10 +96,14 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Relational Database Management Systems (RDBMS)**
 * ## 📈 Excel Analytics & Market Reporting
 
-- **Excel Files:** [Review Warehouse Performance order level analysis File](warehouse-performance.xlsx) | [Review item level analysis Sales File](regional-sales.xlsx)
 
-## Advanced Formulas & Pivot Tables
+- **Excel Files:** [Review Warehouse order lever analysis Performance File](warehouse-performance.xlsx) | [Review item level analysis Sales File](regional-sales.xlsx)
 
-* **Data Retrieval & Cleaning:** Applied `XLOOKUP` and `COALESCE` formulas to handle missing records and merge warehouse inventory and customer specifications dynamically without modifying source data.
-* **Aggregations & Summaries:** Built interactive Pivot Tables using `AVERAGEIFS` and `SUMPRODUCT` to aggregate city revenues, order volumes, employee salaries, and category sales across different time frames and locations.
-* **KPI Formatting & Charts:** Created conditional formatting rules and custom pivot charts to highlight regional sales totals, yearly order distribution trends, and product quantity movements.
+## Advanced Formulas, Pivot Tables & Data Analysis
+
+* **Multi-Dimensional Pivot Tables & Grouping:** Structured complex multi-level Pivot Tables to aggregate transactional metrics across key regional hubs (`bangalore`, `delhi`, `mumbai`, and `pune`), tracking over 300,000 total orders and billions in cumulative financial volume.
+* **Temporal & Longitudinal Trend Analysis:** Monitored yearly order distribution patterns and transaction velocity from 2020 through 2024, utilizing stacked pivot charts to compare regional market contributions over time.
+* **Advanced Formulas & Data Retrieval (`XLOOKUP`, `COALESCE`):** Applied advanced lookup and conditional functions to dynamically merge warehouse inventory records, customer attributes, and pricing specifications without altering source tables.
+* **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
+* **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
+
