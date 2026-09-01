@@ -97,7 +97,7 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * ## 📈 Excel Analytics & Market Reporting
 
 
-- **Excel Files:** [Review Warehouse order lever analysis Performance File](warehouse-performance.xlsx) | [Review item level analysis Sales File](regional-sales.xlsx)
+- **Excel Files:** [Review Warehouse order lever analysis Performance File](https://docs.google.com/spreadsheets/d/1BpT7pWSH5lEYTxzFBUfWjng3IDX1JaPU/edit?usp=drive_link&ouid=112088017941688972371&rtpof=true&sd=true) | [Review item level analysis Sales File](https://docs.google.com/spreadsheets/d/1fKEM0MK2tEr_IfODodM8HU0pPyPtphgX/edit?usp=drive_link&ouid=112088017941688972371&rtpof=true&sd=true)
 
 ## Advanced Formulas, Pivot Tables & Data Analysis
 
