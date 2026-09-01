@@ -95,7 +95,7 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Power BI**
 * **Relational Database Management Systems (RDBMS)**
 * ## 📈 Excel Analytics & Market Reporting
-- **Excel Files:** [Review Order Level Analysis File](https://docs.google.com/spreadsheets/d/1BpT7pWSH5lEYTxzFBUfWjng3IDX1JaPU/edit?usp=drive_link&ouid=112088017941688972371&rtpof=true&sd=true) | [Review Regional Sales File](https://docs.google.com/spreadsheets/d/1fKEM0MK2tEr_IfODodM8HU0pPyPtphgX/edit?usp=drive_link&ouid=112088017941688972371&rtpof=true&sd=true)
+- **Excel Files:** [Download Order Level Analysis File](https://docs.google.com/uc?export=download&id=1BpT7pWSH5lEYTxzFBUfWjng3IDX1JaPU) | [Download Regional Sales File](https://docs.google.com/uc?export=download&id=1fKEM0MK2tEr_IfODodM8HU0pPyPtphgX)
 ## Advanced Formulas, Pivot Tables & Data Analysis
 
 * **Multi-Dimensional Pivot Tables & Grouping:** Structured complex multi-level Pivot Tables to aggregate transactional metrics across key regional hubs (`bangalore`, `delhi`, `mumbai`, and `pune`), tracking over 300,000 total orders and billions in cumulative financial volume.
