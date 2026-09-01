@@ -103,28 +103,16 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Advanced Formulas & Data Retrieval (`XLOOKUP`, `COALESCE`):** Applied advanced lookup and conditional functions to dynamically merge warehouse inventory records, customer attributes, and pricing specifications without altering source tables.
 * **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
 * **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
-## 📈 Excel Analytics & Market Reporting
-
-- **Excel Files:** [Download Order Level Analysis File](https://docs.google.com/uc?export=download&id=1BpT7pWSH5lEYTxzFBUfWjng3IDX1JaPU) | [Download Regional Sales File](https://docs.google.com/uc?export=download&id=1fKEM0MK2tEr_IfODodM8HU0pPyPtphgX)
-
-## Advanced Formulas, Pivot Tables & Data Analysis
-
-* **Multi-Dimensional Pivot Tables & Grouping:** Structured complex multi-level Pivot Tables to aggregate transactional metrics across key regional hubs (`bangalore`, `delhi`, `mumbai`, and `pune`), tracking over 300,000 total orders and billions in cumulative financial volume.
-* **Temporal & Longitudinal Trend Analysis:** Monitored yearly order distribution patterns and transaction velocity from 2020 through 2024, utilizing stacked pivot charts to compare regional market contributions over time.
-* **Advanced Formulas & Data Retrieval (`XLOOKUP`, `COALESCE`):** Applied advanced lookup and conditional functions to dynamically merge warehouse inventory records, customer attributes, and pricing specifications without altering source tables.
-* **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
-* **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
-
-## 📊 Power BI Dashboard Previews & Multi-Page Reports
+## 📊 Dashboard Screenshots
 
 ### 1. Executive Overview & Product Performance
-![Executive Overview Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151518_2.png)
+<a href="power bi images/Screenshot 2026-09-01 151518_2.png"><img src="power bi images/Screenshot 2026-09-01 151518_2.png" alt="Executive Overview Dashboard" width="100%"></a>
 
 ### 2. Customer Segmentation & Regional Insights
-![Customer Segmentation Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151528_2.png)
+<a href="power bi images/Screenshot 2026-09-01 151528_2.png"><img src="power bi images/Screenshot 2026-09-01 151528_2.png" alt="Customer Segmentation Dashboard" width="100%"></a>
 
 ### 3. Store Operations & Staff Performance
-![Store Operations Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151537_2.png)
+<a href="power bi images/Screenshot 2026-09-01 151537_2.png"><img src="power bi images/Screenshot 2026-09-01 151537_2.png" alt="Store Operations Dashboard" width="100%"></a>
 
 ### 4. Discount Impact & Returns Audit
-![Discount Impact Dashboard](power%20bi%20images/Screenshot%202026-09-01%20151552_2.png)
+<a href="power bi images/Screenshot 2026-09-01 151552_2.png"><img src="power bi images/Screenshot 2026-09-01 151552_2.png" alt="Discount Impact Dashboard" width="100%"></a>
