@@ -103,16 +103,16 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Advanced Formulas & Data Retrieval (`XLOOKUP`, `COALESCE`):** Applied advanced lookup and conditional functions to dynamically merge warehouse inventory records, customer attributes, and pricing specifications without altering source tables.
 * **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
 * **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
-## 📊 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### 1. Executive Overview & Product Performance
-<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151518_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151518_2.png" alt="Executive Overview Dashboard" width="100%"></a>
+![Executive Overview](power_bi_images/Screenshot%202026-09-01%20151518_2.png)
 
 ### 2. Customer Segmentation & Regional Insights
-<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151528_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151528_2.png" alt="Customer Segmentation Dashboard" width="100%"></a>
+![Customer Segmentation](power_bi_images/Screenshot%202026-09-01%20151528_2.png)
 
 ### 3. Store Operations & Staff Performance
-<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151537_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151537_2.png" alt="Store Operations Dashboard" width="100%"></a>
+![Store Operations](power_bi_images/Screenshot%202026-09-01%20151537_2.png)
 
 ### 4. Discount Impact & Returns Audit
-<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151552_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151552_2.png" alt="Discount Impact Dashboard" width="100%"></a>
+![Discount Impact](power_bi_images/Screenshot%202026-09-01%20151552_2.png)
