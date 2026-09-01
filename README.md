@@ -83,6 +83,7 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 - **Dashboard Overview:** Comprehensive multi-page visual analysis tracking executive performance, regional customer segments, store operations, staff compensation, and discount impact metrics across the e-commerce warehouse network.
 
 ## Key Power BI Features & Modeling
+* **Star Schema Architecture:** Structured tables into an optimized dimensional star schema, connecting centralized fact logs to surrounding lookup dimensions for streamlined relationship filtering.
 
 * **Data Modeling & DAX:** Built custom DAX measures for Gross Sales, Net Revenue, Total Orders, Average Product Price, Return Rate, Total Customers, Revenue per Customer, Store Revenue, Average Employee Salaries, Total Salaries, Total Refunds, and Revenue by Promotion.
 * **Interactive Filtering & Slicers:** Enabled dynamic cross-filtering by order dates, cities, product categories, price ranges, signup dates, salary tiers, and discount percentages.
