@@ -94,3 +94,12 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ## Technologies Used
 * **Power BI**
 * **Relational Database Management Systems (RDBMS)**
+* ## 📈 Excel Analytics & Market Reporting
+
+- **Excel Files:** [Review Warehouse Performance order level analysis File](warehouse-performance.xlsx) | [Review item level analysis Sales File](regional-sales.xlsx)
+
+## Advanced Formulas & Pivot Tables
+
+* **Data Retrieval & Cleaning:** Applied `XLOOKUP` and `COALESCE` formulas to handle missing records and merge warehouse inventory and customer specifications dynamically without modifying source data.
+* **Aggregations & Summaries:** Built interactive Pivot Tables using `AVERAGEIFS` and `SUMPRODUCT` to aggregate city revenues, order volumes, employee salaries, and category sales across different time frames and locations.
+* **KPI Formatting & Charts:** Created conditional formatting rules and custom pivot charts to highlight regional sales totals, yearly order distribution trends, and product quantity movements.
