@@ -72,3 +72,24 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ## Technologies Used
 * **SQL** (MySQL / SQLite)
 * **Relational Database Management Systems (RDBMS)**
+* # E-Commerce Warehouse & Retail Performance Analytics
+
+An end-to-end relational database analysis project evaluating e-commerce operational data, supply chain logistics, and retail performance metrics using advanced SQL queries[cite: 1].
+
+---
+
+## 📊 Power BI Interactive Dashboards & Analytics
+
+- **Dashboard Overview:** Comprehensive multi-page visual analysis tracking executive performance, regional customer segments, store operations, staff compensation, and discount impact metrics across the e-commerce warehouse network.
+
+## Key Power BI Features & Modeling
+
+* **Data Modeling & DAX:** Built custom DAX measures for Gross Sales, Net Revenue, Total Orders, Average Product Price, Return Rate, Total Customers, Revenue per Customer, Store Revenue, Average Employee Salaries, Total Salaries, Total Refunds, and Revenue by Promotion.
+* **Interactive Filtering & Slicers:** Enabled dynamic cross-filtering by order dates, cities, product categories, price ranges, signup dates, salary tiers, and discount percentages.
+* **Executive Visualizations:** Designed custom visual layouts highlighting order status breakdowns, category sales distributions, regional revenues, store performance metrics, and promotion efficiency trends.
+
+---
+
+## Technologies Used
+* **Power BI**
+* **Relational Database Management Systems (RDBMS)**
