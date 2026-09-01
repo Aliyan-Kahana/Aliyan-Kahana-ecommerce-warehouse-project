@@ -4,14 +4,23 @@ A complete end-to-end data analytics and engineering project analyzing a 12-tabl
 
 A Python-powered data pipeline and relational database project managing retail operations across 12 core tables.
 
-## 🧹 Data Cleaning Steps
+## 🧹 Data Cleaning & Processing Steps
 
-Data preparation and cleaning were executed using Python (Pandas and NumPy) prior to database insertion:
+The raw data was ingested, processed, and prepared using Python (Pandas and NumPy) through the following pipeline:
 
-* **Text Standardization:** Converted string columns to lowercase, stripped leading/trailing whitespace, and standardized categorical labels across product categories and customer names.
-* **Missing Value Handling:** Identified null values in critical fields, dropping records with missing primary identifiers (e.g., `customer_id`, `product_id`) and imputing safe defaults for optional fields where appropriate.
-* **Data Type Casting:** Corrected numerical columns stored as strings (prices, quantities, payment amounts) to proper float/integer types and formatted date-time fields consistently.
-* **Duplicate Removal:** Checked for and eliminated duplicate rows across transactional logs and master reference tables to maintain relational integrity.
+1. **Inspect Data Structure:** Checked data structure, non-null counts, and initial data types using `df.info()`.
+2. **Fix Column Names:** Standardized header naming conventions for consistency.
+3. **Remove Duplicate Rows:** Filtered out redundant records to prevent data skew.
+4. **Remove Extra Spaces:** Stripped leading and trailing whitespace from string fields.
+5. **Standardize Text and Numeric Columns:** Ensured uniform casing and formatting for text and numerical attributes.
+6. **Fix Spelling Errors and Inconsistent Categories:** Corrected typos and unified fragmented category entries.
+7. **Fix Data Types:** Converted columns to their appropriate types (e.g., strings, floats, datetimes).
+8. **Handle Invalid Values:** Identified and corrected out-of-range or logically impossible entries.
+9. **Handle Missing Values and Outliers:** Managed null entries and statistical anomalies.
+10. **Drop Unnecessary Columns:** Removed redundant or uninformative fields from the dataset.
+11. **Create New Useful Columns:** Executed feature engineering to generate derived metrics and attributes.
+12. **Verify Categories:** Audited categorical distributions to ensure clean data integrity.
+13. **Check Final Dataset:** Conducted final validation checks before database storage and querying.
 
 ## 🗄️ Database Schema & Architecture
 
