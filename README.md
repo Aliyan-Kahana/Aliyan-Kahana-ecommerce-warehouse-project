@@ -74,7 +74,7 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Relational Database Management Systems (RDBMS)**
 * # E-Commerce Warehouse & Retail Performance Analytics
 
-An end-to-end relational database analysis project evaluating e-commerce operational data, supply chain logistics, and retail performance metrics using advanced SQL queries[cite: 1].
+An end-to-end relational database analysis project evaluating e-commerce operational data, supply chain logistics, and retail performance metrics using advanced SQL queries.
 
 ---
 
