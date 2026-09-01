@@ -1,10 +1,19 @@
 # Aliyan-Kahana-project
 A complete end-to-end data analytics and engineering project analyzing a 12-table relational e-commerce warehouse dataset. This repository demonstrates a production-grade workflow—from raw data ingestion and cleaning in Python to relational database modeling in SQL, ad-hoc financial modeling in Excel, and interactive dashboarding in Power BI.
-# Retail & E-Commerce Database Schema
+# Retail & E-Commerce Data Processing & Database Schema
 
-A relational database structure designed to manage retail operations across 12 core tables.
+A Python-powered data pipeline and relational database project managing retail operations across 12 core tables.
 
-## 🗄️ Database Architecture & Tables
+## 🧹 Data Cleaning Steps
+
+Data preparation and cleaning were executed using Python (Pandas and NumPy) prior to database insertion:
+
+* **Text Standardization:** Converted string columns to lowercase, stripped leading/trailing whitespace, and standardized categorical labels across product categories and customer names.
+* **Missing Value Handling:** Identified null values in critical fields, dropping records with missing primary identifiers (e.g., `customer_id`, `product_id`) and imputing safe defaults for optional fields where appropriate.
+* **Data Type Casting:** Corrected numerical columns stored as strings (prices, quantities, payment amounts) to proper float/integer types and formatted date-time fields consistently.
+* **Duplicate Removal:** Checked for and eliminated duplicate rows across transactional logs and master reference tables to maintain relational integrity.
+
+## 🗄️ Database Schema & Architecture
 
 | Table Name | Description | Key Relationships |
 | :--- | :--- | :--- |
