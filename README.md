@@ -103,16 +103,14 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Advanced Formulas & Data Retrieval (`XLOOKUP`, `COALESCE`):** Applied advanced lookup and conditional functions to dynamically merge warehouse inventory records, customer attributes, and pricing specifications without altering source tables.
 * **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
 * **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
-## Dashboard Screenshots
-
 ### 1. Executive Overview & Product Performance
-![Executive Overview](images/powerbi-overview.png)
+![Executive Overview](./images/Screenshot%202026-09-01%20151518_.png)
 
 ### 2. Customer Segmentation & Regional Insights
-![Customer Segmentation](images/powerbi-customers.png)
+![Customer Segmentation](./images/Screenshot%202026-09-01%20151528_.png)
 
 ### 3. Store Operations & Staff Performance
-![Store Operations](images/powerbi-operations.png)
+![Store Operations](./images/Screenshot%202026-09-01%20151537_.png)
 
 ### 4. Discount Impact & Returns Audit
-![Discount Impact](images/powerbi-discount.png)
+![Discount Impact](./images/Screenshot%202026-09-01%20151552_.png)
