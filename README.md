@@ -106,13 +106,13 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ## 📊 Dashboard Screenshots
 
 ### 1. Executive Overview & Product Performance
-<a href="power bi images/Screenshot 2026-09-01 151518_2.png"><img src="power bi images/Screenshot 2026-09-01 151518_2.png" alt="Executive Overview Dashboard" width="100%"></a>
+<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151518_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151518_2.png" alt="Executive Overview Dashboard" width="100%"></a>
 
 ### 2. Customer Segmentation & Regional Insights
-<a href="power bi images/Screenshot 2026-09-01 151528_2.png"><img src="power bi images/Screenshot 2026-09-01 151528_2.png" alt="Customer Segmentation Dashboard" width="100%"></a>
+<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151528_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151528_2.png" alt="Customer Segmentation Dashboard" width="100%"></a>
 
 ### 3. Store Operations & Staff Performance
-<a href="power bi images/Screenshot 2026-09-01 151537_2.png"><img src="power bi images/Screenshot 2026-09-01 151537_2.png" alt="Store Operations Dashboard" width="100%"></a>
+<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151537_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151537_2.png" alt="Store Operations Dashboard" width="100%"></a>
 
 ### 4. Discount Impact & Returns Audit
-<a href="power bi images/Screenshot 2026-09-01 151552_2.png"><img src="power bi images/Screenshot 2026-09-01 151552_2.png" alt="Discount Impact Dashboard" width="100%"></a>
+<a href="https://raw.githubusercontent.com/Aliyan-Kahana/Aliyan-Kahana-project/main/power%20bi%20images/Screenshot%202026-09-01%20151552_2.png"><img src="power%20bi%20images/Screenshot%202026-09-01%20151552_2.png" alt="Discount Impact Dashboard" width="100%"></a>
