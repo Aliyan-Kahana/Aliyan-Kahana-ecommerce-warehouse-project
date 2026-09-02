@@ -103,16 +103,6 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Advanced Formulas & Data Retrieval (`XLOOKUP`, `COALESCE`):** Applied advanced lookup and conditional functions to dynamically merge warehouse inventory records, customer attributes, and pricing specifications without altering source tables.
 * **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
 * **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
-* ### Excel Pivot Tables & Visualizations Analysis
-
-Here are the markdown image embeds and code snippets formatted so you can easily copy and paste them directly into your GitHub repository's `README.md` file.
-
-#### 1. City-Wise Financial Summary & Order Trends
-```markdown
-![City-Wise Financial and Order Count Summary](path/to/images/Screenshot%202026-09-01%20152854.png)
-![Yearly Breakdown and Stacked Order Distribution by City](path/to/images/Screenshot%202026-09-01%20152900.png)
-![Granular Row Labels and Dual-Metric Analysis](path/to/images/Screenshot%202026-09-01%20152916.png)
-![Category-Wise Quantity and Gross Sales Summary](path/to/images/Screenshot%202026-09-01%20153011.png)
 ### 1. Executive Overview & Product Performance
 ![Executive Overview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/images/Screenshot%202026-09-01%20151518.png)
 
