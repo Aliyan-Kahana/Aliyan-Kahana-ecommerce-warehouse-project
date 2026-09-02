@@ -123,3 +123,8 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ![Pivot Tables 3 Preview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/excel%20images/Screenshot%202026-09-01%20152916.png)
 #### 4. Pivot Tables & Summary Layouts (Part 4)
 ![Pivot Tables 4 Preview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/excel%20images/Screenshot%202026-09-01%20153011.png)
+## Key Metrics
+* **Total tables:** Two tables were created as star schema order level analysis and item level analysis
+* **Total Rows:** order level analysis (300000) rows and item level analysis (600000) rows
+* **Total Columns:**order level analysis(13) columns and item level analysis (17) columns 
+* **Total Columns:** order level analysis table give data about order and item level analysis table tell about items
