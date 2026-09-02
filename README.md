@@ -126,5 +126,5 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ## Key Metrics
 * **Total tables:** Two tables were created as star schema order level analysis and item level analysis
 * **Total Rows:** order level analysis (300000) rows and item level analysis (600000) rows
-* **Total Columns:**order level analysis(13) columns and item level analysis (17) columns 
+* **Total Columns:** order level analysis(13) columns and item level analysis (17) columns 
 * **Total Columns:** order level analysis table give data about order and item level analysis table tell about items
