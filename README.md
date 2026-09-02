@@ -113,4 +113,4 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ![Store Operations](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/images/Screenshot%202026-09-01%20151537.png)
 
 ### 4. Discount Impact & Returns Audit
-![Discount Impact](./images/Screenshot%202026-09-01%20151552_.png)
+![Discount Impact](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/images/Screenshot%202026-09-01%20151552.png)
