@@ -104,7 +104,7 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 * **Complex Aggregations & Calculations (`AVERAGEIFS`, `SUMPRODUCT`):** Leveraged robust mathematical and logical formulas to evaluate category-specific gross sales, unit quantities (e.g., across Cat_1 to Cat_30), and average transaction amounts across diverse operational brackets.
 * **Dynamic KPI Formatting & Interactive Visualizations:** Designed custom pivot charts and conditional formatting rules linked to interactive slicers to highlight top-performing product categories, discount efficiencies, and regional sales performance.
 ### 1. Executive Overview & Product Performance
-![Executive Overview](./images/Screenshot%202026-09-01%20151518_.png)
+![Executive Overview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/images/Screenshot%202026-09-01%20151518.png)
 
 ### 2. Customer Segmentation & Regional Insights
 ![Customer Segmentation](./images/Screenshot%202026-09-01%20151528_.png)
