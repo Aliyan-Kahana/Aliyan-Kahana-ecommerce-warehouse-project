@@ -120,4 +120,4 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 #### 2. Pivot Tables & Summary Layouts (Part 2)
 ![Pivot Tables 2 Preview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/excel%20images/Screenshot%202026-09-01%20152900.png)
 #### 3. Pivot Tables & Summary Layouts (Part 3)
-![Pivot Tables 3 Preview]
+![Pivot Tables 3 Preview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/excel%20images/Screenshot%202026-09-01%20152916.png)
