@@ -107,7 +107,7 @@ An end-to-end relational database analysis project evaluating e-commerce operati
 ![Executive Overview](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/images/Screenshot%202026-09-01%20151518.png)
 
 ### 2. Customer Segmentation & Regional Insights
-![Customer Segmentation](./images/Screenshot%202026-09-01%20151528_.png)
+![Customer Segmentation](https://github.com/Aliyan-Kahana/Aliyan-Kahana-project/blob/main/images/Screenshot%202026-09-01%20151528.png)
 
 ### 3. Store Operations & Staff Performance
 ![Store Operations](./images/Screenshot%202026-09-01%20151537_.png)
