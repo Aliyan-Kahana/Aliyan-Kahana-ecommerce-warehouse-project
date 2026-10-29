@@ -1,5 +1,5 @@
 # E-Commerce Warehouse Project
-A complete end-to-end data analytics and engineering project analyzing a 12-table relational e-commerce warehouse dataset. This repository demonstrates a complete workflow—from raw data ingestion and validation in Python to relational database modeling in SQL, pivot-table analysis in Excel, and interactive dashboarding in Power BI.
+A complete end-to-end data analytics and engineering project analyzing a 12-table relational e-commerce warehouse dataset. This repository demonstrates a complete workflow—from raw data ingestion and validation in Python to relational database modeling in SQL, pivot-table analysis in Excel and interactive dashboarding in Power BI.
 
 # Retail & E-Commerce Data Processing & Database Schema
 
